@@ -9,11 +9,11 @@
   "counts": {
     "kinds": 14,
     "brands": 42,
-    "models": 107,
-    "variants": 408,
+    "models": 134,
+    "variants": 562,
     "byKind": {
-      "rod": 189,
-      "reel": 22,
+      "rod": 315,
+      "reel": 50,
       "line": 38,
       "backing": 6,
       "leader": 9,
@@ -1893,6 +1893,97 @@
                   }
                 }
               ]
+            },
+            {
+              "model": "Foundation",
+              "action": "fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "value",
+              "years": "2018–present",
+              "note": "Sage's value, made-in-USA series on a Graphite IIIe blank with a fast all-water action.",
+              "variants": [
+                {
+                  "id": "rod-sage-foundation-490-4",
+                  "code": "490-4",
+                  "label": "490-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-sage-foundation-590-4",
+                  "code": "590-4",
+                  "label": "590-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-sage-foundation-690-4",
+                  "code": "690-4",
+                  "label": "690-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-sage-foundation-691-4",
+                  "code": "691-4",
+                  "label": "691-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-sage-foundation-790-4",
+                  "code": "790-4",
+                  "label": "790-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-sage-foundation-7100-4",
+                  "code": "7100-4",
+                  "label": "7100-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-sage-foundation-890-4",
+                  "code": "890-4",
+                  "label": "890-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-sage-foundation-990-4",
+                  "code": "990-4",
+                  "label": "990-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
             }
           ]
         },
@@ -1903,74 +1994,189 @@
               "model": "Helios D",
               "action": "fast",
               "material": "graphite",
-              "taper": "D (Distance)",
               "waterType": "all-water",
               "series": "flagship",
+              "years": "2024–present",
+              "note": "The distance/power taper of the 2024 4th-gen Helios redesign, built for line speed, lifting power and wind-cutting accuracy.",
               "variants": [
                 {
-                  "id": "rod-orvis-helios-d-905",
-                  "code": "905",
-                  "label": "905",
+                  "id": "rod-orvis-helios-d-954-4",
+                  "code": "954-4",
+                  "label": "954-4",
                   "specs": {
-                    "lineWeight": 5,
-                    "length": "9'0\"",
-                    "pieces": 4,
-                    "taper": "D"
+                    "lineWeight": 4,
+                    "length": "9'5\"",
+                    "pieces": 4
                   }
                 },
                 {
-                  "id": "rod-orvis-helios-d-906",
-                  "code": "906",
-                  "label": "906",
-                  "specs": {
-                    "lineWeight": 6,
-                    "length": "9'0\"",
-                    "pieces": 4,
-                    "taper": "D"
-                  }
-                },
-                {
-                  "id": "rod-orvis-helios-d-908",
-                  "code": "908",
-                  "label": "908",
-                  "specs": {
-                    "lineWeight": 8,
-                    "length": "9'0\"",
-                    "pieces": 4,
-                    "taper": "D"
-                  }
-                },
-                {
-                  "id": "rod-orvis-helios-d-1004",
-                  "code": "1004",
-                  "label": "1004",
+                  "id": "rod-orvis-helios-d-1004-4",
+                  "code": "1004-4",
+                  "label": "1004-4",
                   "specs": {
                     "lineWeight": 4,
                     "length": "10'0\"",
-                    "pieces": 4,
-                    "taper": "D"
+                    "pieces": 4
                   }
                 },
                 {
-                  "id": "rod-orvis-helios-d-857",
-                  "code": "857",
-                  "label": "857",
+                  "id": "rod-orvis-helios-d-905-4",
+                  "code": "905-4",
+                  "label": "905-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-955-4",
+                  "code": "955-4",
+                  "label": "955-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'5\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-1005-4",
+                  "code": "1005-4",
+                  "label": "1005-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-906-4",
+                  "code": "906-4",
+                  "label": "906-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-1006-4",
+                  "code": "1006-4",
+                  "label": "1006-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-857-4",
+                  "code": "857-4",
+                  "label": "857-4",
                   "specs": {
                     "lineWeight": 7,
                     "length": "8'5\"",
-                    "pieces": 4,
-                    "taper": "D"
+                    "pieces": 4
                   }
                 },
                 {
-                  "id": "rod-orvis-helios-d-858",
-                  "code": "858",
-                  "label": "858",
+                  "id": "rod-orvis-helios-d-907-4",
+                  "code": "907-4",
+                  "label": "907-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-1007-4",
+                  "code": "1007-4",
+                  "label": "1007-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-858-4",
+                  "code": "858-4",
+                  "label": "858-4",
                   "specs": {
                     "lineWeight": 8,
                     "length": "8'5\"",
-                    "pieces": 4,
-                    "taper": "D"
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-908-4",
+                  "code": "908-4",
+                  "label": "908-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-909-4",
+                  "code": "909-4",
+                  "label": "909-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-8510-4",
+                  "code": "8510-4",
+                  "label": "8510-4",
+                  "specs": {
+                    "lineWeight": 10,
+                    "length": "8'5\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-9010-4",
+                  "code": "9010-4",
+                  "label": "9010-4",
+                  "specs": {
+                    "lineWeight": 10,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-9011-4",
+                  "code": "9011-4",
+                  "label": "9011-4",
+                  "specs": {
+                    "lineWeight": 11,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-9012-4",
+                  "code": "9012-4",
+                  "label": "9012-4",
+                  "specs": {
+                    "lineWeight": 12,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-d-8514-4",
+                  "code": "8514-4",
+                  "label": "8514-4",
+                  "specs": {
+                    "lineWeight": 14,
+                    "length": "8'5\"",
+                    "pieces": 4
                   }
                 }
               ]
@@ -1979,52 +2185,796 @@
               "model": "Helios F",
               "action": "medium-fast",
               "material": "graphite",
-              "taper": "F (Finesse)",
-              "waterType": "freshwater",
+              "waterType": "all-water",
               "series": "flagship",
+              "years": "2024–present",
+              "note": "The finesse taper of the 2024 4th-gen Helios redesign, tuned for sensitivity, delicate presentations and tippet protection.",
               "variants": [
                 {
-                  "id": "rod-orvis-helios-f-904",
-                  "code": "904",
-                  "label": "904",
+                  "id": "rod-orvis-helios-f-762-4",
+                  "code": "762-4",
+                  "label": "762-4",
+                  "specs": {
+                    "lineWeight": 2,
+                    "length": "7'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-f-843-4",
+                  "code": "843-4",
+                  "label": "843-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "8'4\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-f-1003-4",
+                  "code": "1003-4",
+                  "label": "1003-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-f-1103-4",
+                  "code": "1103-4",
+                  "label": "1103-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "11'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-f-764-4",
+                  "code": "764-4",
+                  "label": "764-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "7'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-f-864-4",
+                  "code": "864-4",
+                  "label": "864-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "8'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-f-904-4",
+                  "code": "904-4",
+                  "label": "904-4",
                   "specs": {
                     "lineWeight": 4,
                     "length": "9'0\"",
-                    "pieces": 4,
-                    "taper": "F"
+                    "pieces": 4
                   }
                 },
                 {
-                  "id": "rod-orvis-helios-f-865",
-                  "code": "865",
-                  "label": "865",
+                  "id": "rod-orvis-helios-f-865-4",
+                  "code": "865-4",
+                  "label": "865-4",
                   "specs": {
                     "lineWeight": 5,
                     "length": "8'6\"",
-                    "pieces": 4,
-                    "taper": "F"
+                    "pieces": 4
                   }
                 },
                 {
-                  "id": "rod-orvis-helios-f-905",
-                  "code": "905",
-                  "label": "905",
+                  "id": "rod-orvis-helios-f-905-4",
+                  "code": "905-4",
+                  "label": "905-4",
                   "specs": {
                     "lineWeight": 5,
                     "length": "9'0\"",
-                    "pieces": 4,
-                    "taper": "F"
+                    "pieces": 4
                   }
                 },
                 {
-                  "id": "rod-orvis-helios-f-906",
-                  "code": "906",
-                  "label": "906",
+                  "id": "rod-orvis-helios-f-906-4",
+                  "code": "906-4",
+                  "label": "906-4",
                   "specs": {
                     "lineWeight": 6,
                     "length": "9'0\"",
-                    "pieces": 4,
-                    "taper": "F"
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-f-907-4",
+                  "code": "907-4",
+                  "label": "907-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-f-908-4",
+                  "code": "908-4",
+                  "label": "908-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Helios 3D",
+              "action": "fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "premium",
+              "years": "2018–2024",
+              "note": "The distance/accuracy taper of the Helios 3 generation, a fast-action powerhouse for shooting line and fighting wind.",
+              "variants": [
+                {
+                  "id": "rod-orvis-helios-3d-904-4",
+                  "code": "904-4",
+                  "label": "904-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3d-905-4",
+                  "code": "905-4",
+                  "label": "905-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3d-906-4",
+                  "code": "906-4",
+                  "label": "906-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3d-907-4",
+                  "code": "907-4",
+                  "label": "907-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3d-1007-4",
+                  "code": "1007-4",
+                  "label": "1007-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3d-908-4",
+                  "code": "908-4",
+                  "label": "908-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3d-909-4",
+                  "code": "909-4",
+                  "label": "909-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3d-9010-4",
+                  "code": "9010-4",
+                  "label": "9010-4",
+                  "specs": {
+                    "lineWeight": 10,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3d-9011-4",
+                  "code": "9011-4",
+                  "label": "9011-4",
+                  "specs": {
+                    "lineWeight": 11,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3d-9012-4",
+                  "code": "9012-4",
+                  "label": "9012-4",
+                  "specs": {
+                    "lineWeight": 12,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Helios 3F",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "premium",
+              "years": "2018–2024",
+              "note": "The finesse taper of the Helios 3 generation, prioritizing feel, delicate presentation and accuracy.",
+              "variants": [
+                {
+                  "id": "rod-orvis-helios-3f-762-4",
+                  "code": "762-4",
+                  "label": "762-4",
+                  "specs": {
+                    "lineWeight": 2,
+                    "length": "7'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-843-4",
+                  "code": "843-4",
+                  "label": "843-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "8'4\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-1063-4",
+                  "code": "1063-4",
+                  "label": "1063-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "10'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-1103-4",
+                  "code": "1103-4",
+                  "label": "1103-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "11'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-764-4",
+                  "code": "764-4",
+                  "label": "764-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "7'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-864-4",
+                  "code": "864-4",
+                  "label": "864-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "8'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-904-4",
+                  "code": "904-4",
+                  "label": "904-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-865-4",
+                  "code": "865-4",
+                  "label": "865-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "8'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-905-4",
+                  "code": "905-4",
+                  "label": "905-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-906-4",
+                  "code": "906-4",
+                  "label": "906-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-966-4",
+                  "code": "966-4",
+                  "label": "966-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-907-4",
+                  "code": "907-4",
+                  "label": "907-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-908-4",
+                  "code": "908-4",
+                  "label": "908-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-helios-3f-909-4",
+                  "code": "909-4",
+                  "label": "909-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Recon Freshwater",
+              "action": "fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "performance",
+              "years": "2020–present",
+              "note": "Helios-derived all-water performance rod at a mid price; freshwater lineup spans trout to bass/musky and includes Euro-nymphing 10-footers.",
+              "variants": [
+                {
+                  "id": "rod-orvis-recon-freshwater-903-4",
+                  "code": "903-4",
+                  "label": "903-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-1003-4",
+                  "code": "1003-4",
+                  "label": "1003-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-864-4",
+                  "code": "864-4",
+                  "label": "864-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "8'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-904-4",
+                  "code": "904-4",
+                  "label": "904-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-865-4",
+                  "code": "865-4",
+                  "label": "865-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "8'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-905-4",
+                  "code": "905-4",
+                  "label": "905-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-1005-4",
+                  "code": "1005-4",
+                  "label": "1005-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-906-4",
+                  "code": "906-4",
+                  "label": "906-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-1006-4",
+                  "code": "1006-4",
+                  "label": "1006-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-907-4",
+                  "code": "907-4",
+                  "label": "907-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-1007-4",
+                  "code": "1007-4",
+                  "label": "1007-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-898-4",
+                  "code": "898-4",
+                  "label": "898-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "8'9\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-freshwater-8911-4",
+                  "code": "8911-4",
+                  "label": "8911-4",
+                  "specs": {
+                    "lineWeight": 11,
+                    "length": "8'9\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Recon Saltwater",
+              "action": "fast",
+              "material": "graphite",
+              "waterType": "saltwater",
+              "series": "performance",
+              "years": "2020–present",
+              "note": "Dedicated saltwater build of the Recon for flats, inshore and bluewater work, in six 9-foot models 6–11wt.",
+              "variants": [
+                {
+                  "id": "rod-orvis-recon-saltwater-906-4",
+                  "code": "906-4",
+                  "label": "906-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-saltwater-907-4",
+                  "code": "907-4",
+                  "label": "907-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-saltwater-908-4",
+                  "code": "908-4",
+                  "label": "908-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-saltwater-909-4",
+                  "code": "909-4",
+                  "label": "909-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-saltwater-9010-4",
+                  "code": "9010-4",
+                  "label": "9010-4",
+                  "specs": {
+                    "lineWeight": 10,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-recon-saltwater-9011-4",
+                  "code": "9011-4",
+                  "label": "9011-4",
+                  "specs": {
+                    "lineWeight": 11,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Superfine Glass",
+              "action": "medium",
+              "material": "fiberglass",
+              "waterType": "freshwater",
+              "series": "specialist",
+              "years": "2016–present",
+              "note": "S-2 fiberglass small-stream specialist with a slow-to-medium glass action for delicate close-range presentation.",
+              "variants": [
+                {
+                  "id": "rod-orvis-superfine-glass-662-3",
+                  "code": "662-3",
+                  "label": "662-3",
+                  "specs": {
+                    "lineWeight": 2,
+                    "length": "6'6\"",
+                    "pieces": 3
+                  }
+                },
+                {
+                  "id": "rod-orvis-superfine-glass-763-4",
+                  "code": "763-4",
+                  "label": "763-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "7'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-superfine-glass-764-4",
+                  "code": "764-4",
+                  "label": "764-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "7'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-superfine-glass-805-4",
+                  "code": "805-4",
+                  "label": "805-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "8'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-superfine-glass-866-4",
+                  "code": "866-4",
+                  "label": "866-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "8'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-superfine-glass-888-4",
+                  "code": "888-4",
+                  "label": "888-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "8'8\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Superfine Graphite",
+              "action": "medium",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "specialist",
+              "years": "2016–present",
+              "note": "Sold today as the Superfine Graphite: a slow-to-moderate lower-modulus presentation rod for spring creeks and small trout/panfish.",
+              "variants": [
+                {
+                  "id": "rod-orvis-superfine-graphite-761-4",
+                  "code": "761-4",
+                  "label": "761-4",
+                  "specs": {
+                    "lineWeight": 1,
+                    "length": "7'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-superfine-graphite-792-4",
+                  "code": "792-4",
+                  "label": "792-4",
+                  "specs": {
+                    "lineWeight": 2,
+                    "length": "7'9\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-superfine-graphite-763-4",
+                  "code": "763-4",
+                  "label": "763-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "7'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-superfine-graphite-7114-4",
+                  "code": "7114-4",
+                  "label": "7114-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "7'11\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-superfine-graphite-795-4",
+                  "code": "795-4",
+                  "label": "795-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "7'9\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Encounter",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "entry",
+              "years": "2017–present",
+              "note": "Entry-level value all-water rod sold primarily as a complete outfit for new anglers and as an inexpensive spare.",
+              "variants": [
+                {
+                  "id": "rod-orvis-encounter-865-4",
+                  "code": "865-4",
+                  "label": "865-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "8'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-encounter-905-4",
+                  "code": "905-4",
+                  "label": "905-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-encounter-906-4",
+                  "code": "906-4",
+                  "label": "906-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-encounter-966-4",
+                  "code": "966-4",
+                  "label": "966-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-encounter-908-4",
+                  "code": "908-4",
+                  "label": "908-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4
                   }
                 }
               ]
@@ -2034,8 +2984,40 @@
               "action": "medium-fast",
               "material": "graphite",
               "waterType": "freshwater",
-              "series": "entry",
+              "series": "value",
+              "years": "2018–present",
+              "note": "Orvis's flagship value freshwater single-hand trout series; the 9' 5-weight is the most popular all-around model.",
               "variants": [
+                {
+                  "id": "rod-orvis-clearwater-763-4",
+                  "code": "763-4",
+                  "label": "763-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "7'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-764-4",
+                  "code": "764-4",
+                  "label": "764-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "7'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-864-4",
+                  "code": "864-4",
+                  "label": "864-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "8'6\"",
+                    "pieces": 4
+                  }
+                },
                 {
                   "id": "rod-orvis-clearwater-865-4",
                   "code": "865-4",
@@ -2043,6 +3025,16 @@
                   "specs": {
                     "lineWeight": 5,
                     "length": "8'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-904-4",
+                  "code": "904-4",
+                  "label": "904-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
                     "pieces": 4
                   }
                 },
@@ -2067,7 +3059,109 @@
                   }
                 },
                 {
-                  "id": "rod-orvis-clearwater-1004-4",
+                  "id": "rod-orvis-clearwater-907-4",
+                  "code": "907-4",
+                  "label": "907-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-966-4",
+                  "code": "966-4",
+                  "label": "966-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'6\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Clearwater 6-Piece",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "value",
+              "years": "2018–present",
+              "note": "Travel-packable 6-piece versions of the core freshwater Clearwater, breaking down to a 22.5\" tube.",
+              "variants": [
+                {
+                  "id": "rod-orvis-clearwater-6-piece-865-6",
+                  "code": "865-6",
+                  "label": "865-6",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "8'6\"",
+                    "pieces": 6
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-6-piece-905-6",
+                  "code": "905-6",
+                  "label": "905-6",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 6
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-6-piece-906-6",
+                  "code": "906-6",
+                  "label": "906-6",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 6
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-6-piece-908-6",
+                  "code": "908-6",
+                  "label": "908-6",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 6
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Clearwater Euro Nymph",
+              "action": "medium",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "value",
+              "years": "2019–present",
+              "note": "Long, light-tipped single-hand nymphing rods for European tightline tactics; 10' 2wt and 3wt are the dedicated euro models.",
+              "variants": [
+                {
+                  "id": "rod-orvis-clearwater-euro-nymph-1002-4",
+                  "code": "1002-4",
+                  "label": "1002-4",
+                  "specs": {
+                    "lineWeight": 2,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-euro-nymph-1003-4",
+                  "code": "1003-4",
+                  "label": "1003-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-euro-nymph-1004-4",
                   "code": "1004-4",
                   "label": "1004-4",
                   "specs": {
@@ -2077,12 +3171,381 @@
                   }
                 },
                 {
-                  "id": "rod-orvis-clearwater-908-4",
+                  "id": "rod-orvis-clearwater-euro-nymph-1005-4",
+                  "code": "1005-4",
+                  "label": "1005-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Clearwater Big Game",
+              "action": "fast",
+              "material": "graphite",
+              "waterType": "saltwater",
+              "series": "value",
+              "years": "2018–present",
+              "note": "Faster, more powerful big-game and saltwater models (7–12wt) with saltwater reel seats and Cordura tubes.",
+              "variants": [
+                {
+                  "id": "rod-orvis-clearwater-big-game-907-4",
+                  "code": "907-4",
+                  "label": "907-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-big-game-908-4",
                   "code": "908-4",
                   "label": "908-4",
                   "specs": {
                     "lineWeight": 8,
                     "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-big-game-909-4",
+                  "code": "909-4",
+                  "label": "909-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-big-game-9010-4",
+                  "code": "9010-4",
+                  "label": "9010-4",
+                  "specs": {
+                    "lineWeight": 10,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-big-game-9011-4",
+                  "code": "9011-4",
+                  "label": "9011-4",
+                  "specs": {
+                    "lineWeight": 11,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-big-game-9012-4",
+                  "code": "9012-4",
+                  "label": "9012-4",
+                  "specs": {
+                    "lineWeight": 12,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-big-game-1007-4",
+                  "code": "1007-4",
+                  "label": "1007-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-big-game-1008-4",
+                  "code": "1008-4",
+                  "label": "1008-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Clearwater Switch",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "value",
+              "years": "2018–present",
+              "note": "Short two-handed switch rods (11', 6–8wt) for both overhead and Spey casting.",
+              "variants": [
+                {
+                  "id": "rod-orvis-clearwater-switch-1106-4",
+                  "code": "1106-4",
+                  "label": "1106-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "11'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-switch-1107-4",
+                  "code": "1107-4",
+                  "label": "1107-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "11'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-switch-1108-4",
+                  "code": "1108-4",
+                  "label": "1108-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "11'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Clearwater Trout Spey",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "value",
+              "years": "2018–present",
+              "note": "Light two-handed trout-Spey rods (11'4\", 3–4wt) for swinging soft hackles and wets.",
+              "variants": [
+                {
+                  "id": "rod-orvis-clearwater-trout-spey-1143-4",
+                  "code": "1143-4",
+                  "label": "1143-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "11'4\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-trout-spey-1144-4",
+                  "code": "1144-4",
+                  "label": "1144-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "11'4\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Clearwater Spey",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "value",
+              "years": "2018–present",
+              "note": "Full-length two-handed Spey rods (12'–13'6\", 6–8wt) for swinging flies to steelhead and salmon.",
+              "variants": [
+                {
+                  "id": "rod-orvis-clearwater-spey-1206-4",
+                  "code": "1206-4",
+                  "label": "1206-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "12'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-spey-1307-4",
+                  "code": "1307-4",
+                  "label": "1307-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "13'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-clearwater-spey-1368-4",
+                  "code": "1368-4",
+                  "label": "1368-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "13'6\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Helios 3 Blackout",
+              "action": "fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "euro-nymph",
+              "years": "2019–2024",
+              "note": "Blacked-out competition/euro-nymphing edition of the Helios 3, a single long ultra-sensitive 3-weight for technical drift control.",
+              "variants": [
+                {
+                  "id": "rod-orvis-helios-3-blackout-1133-4",
+                  "code": "1133-4",
+                  "label": "1133-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "11'3\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Mission Trout Spey",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "spey",
+              "years": "2020–present",
+              "note": "Lightest two-handed Mission models for swinging small flies and light tippets to trout.",
+              "variants": [
+                {
+                  "id": "rod-orvis-mission-trout-spey-1122-4",
+                  "code": "1122-4",
+                  "label": "1122-4",
+                  "specs": {
+                    "lineWeight": 2,
+                    "length": "11'2\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-mission-trout-spey-1143-4",
+                  "code": "1143-4",
+                  "label": "1143-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "11'4\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-mission-trout-spey-1144-4",
+                  "code": "1144-4",
+                  "label": "1144-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "11'4\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Mission Switch",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "switch",
+              "years": "2020–present",
+              "note": "Eleven-foot two-handed switch rods for indicator rigs and short-swinging streamers.",
+              "variants": [
+                {
+                  "id": "rod-orvis-mission-switch-1106-4",
+                  "code": "1106-4",
+                  "label": "1106-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "11'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-mission-switch-1107-4",
+                  "code": "1107-4",
+                  "label": "1107-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "11'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-mission-switch-1108-4",
+                  "code": "1108-4",
+                  "label": "1108-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "11'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Mission Short Spey",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "spey",
+              "years": "2020–present",
+              "note": "Twelve-foot short Spey models with a compact swing platform and more power than the trout-Spey rods.",
+              "variants": [
+                {
+                  "id": "rod-orvis-mission-short-spey-1205-4",
+                  "code": "1205-4",
+                  "label": "1205-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "12'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-mission-short-spey-1206-4",
+                  "code": "1206-4",
+                  "label": "1206-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "12'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Mission Full Spey",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "spey",
+              "years": "2020–present",
+              "note": "Longest two-handed Mission models for full Spey casting and maximum distance on big water.",
+              "variants": [
+                {
+                  "id": "rod-orvis-mission-full-spey-1307-4",
+                  "code": "1307-4",
+                  "label": "1307-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "13'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-orvis-mission-full-spey-1368-4",
+                  "code": "1368-4",
+                  "label": "1368-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "13'6\"",
                     "pieces": 4
                   }
                 }
@@ -2280,6 +3743,8 @@
               "model": "Spectrum C",
               "material": "die-cast aluminium",
               "series": "entry",
+              "years": "2018–present",
+              "note": "Value-priced reel with a die-cast frame but the same sealed SCS carbon drag as the machined Spectrums.",
               "variants": [
                 {
                   "id": "reel-sage-spectrum-c-3-4",
@@ -2324,12 +3789,34 @@
               ]
             },
             {
-              "model": "Enforcer",
-              "material": "machined aluminium",
+              "model": "Spectrum",
+              "material": "fully-machined aluminium",
               "series": "mid",
+              "years": "2018–2022",
+              "note": "The standard fully-machined large-arbor Spectrum with sealed SCS drag, now discontinued.",
               "variants": [
                 {
-                  "id": "reel-sage-enforcer-5-6",
+                  "id": "reel-sage-spectrum-3-4",
+                  "code": "3/4",
+                  "label": "3/4",
+                  "specs": {
+                    "weightClass": "3-4",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-spectrum-4-5",
+                  "code": "4/5",
+                  "label": "4/5",
+                  "specs": {
+                    "weightClass": "4-5",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-spectrum-5-6",
                   "code": "5/6",
                   "label": "5/6",
                   "specs": {
@@ -2339,11 +3826,343 @@
                   }
                 },
                 {
+                  "id": "reel-sage-spectrum-7-8",
+                  "code": "7/8",
+                  "label": "7/8",
+                  "specs": {
+                    "weightClass": "7-8",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-spectrum-9-10",
+                  "code": "9/10",
+                  "label": "9/10",
+                  "specs": {
+                    "weightClass": "9-10",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Spectrum MAX",
+              "material": "fully-machined aluminium",
+              "series": "premium",
+              "years": "2018–present",
+              "note": "Premium fully-machined Spectrum with a fully sealed SCS carbon drag and 40 detented settings for demanding fresh and saltwater duty.",
+              "variants": [
+                {
+                  "id": "reel-sage-spectrum-max-5-6",
+                  "code": "5/6",
+                  "label": "5/6",
+                  "specs": {
+                    "weightClass": "5-6",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-spectrum-max-6-7",
+                  "code": "6/7",
+                  "label": "6/7",
+                  "specs": {
+                    "weightClass": "6-7",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-spectrum-max-7-8",
+                  "code": "7/8",
+                  "label": "7/8",
+                  "specs": {
+                    "weightClass": "7-8",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-spectrum-max-9-10",
+                  "code": "9/10",
+                  "label": "9/10",
+                  "specs": {
+                    "weightClass": "9-10",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-spectrum-max-11-12",
+                  "code": "11/12",
+                  "label": "11/12",
+                  "specs": {
+                    "weightClass": "11-12",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Spectrum LT",
+              "material": "fully-machined aluminium",
+              "series": "mid",
+              "years": "2020–present",
+              "note": "Lightweight large-arbor machined Spectrum bringing the sealed SCS drag to an ultra-light rigid frame.",
+              "variants": [
+                {
+                  "id": "reel-sage-spectrum-lt-3-4",
+                  "code": "3/4",
+                  "label": "3/4",
+                  "specs": {
+                    "weightClass": "3-4",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-spectrum-lt-4-5",
+                  "code": "4/5",
+                  "label": "4/5",
+                  "specs": {
+                    "weightClass": "4-5",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-spectrum-lt-5-6",
+                  "code": "5/6",
+                  "label": "5/6",
+                  "specs": {
+                    "weightClass": "5-6",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-spectrum-lt-7-8",
+                  "code": "7/8",
+                  "label": "7/8",
+                  "specs": {
+                    "weightClass": "7-8",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-spectrum-lt-9-10",
+                  "code": "9/10",
+                  "label": "9/10",
+                  "specs": {
+                    "weightClass": "9-10",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Enforcer",
+              "material": "fully-machined aluminium",
+              "series": "premium",
+              "years": "2019–present",
+              "note": "Fully-machined, fully-sealed big-game saltwater reel for flats and bluewater, with ~50% more max drag than the Spectrum Max it replaced.",
+              "variants": [
+                {
                   "id": "reel-sage-enforcer-7-8",
                   "code": "7/8",
                   "label": "7/8",
                   "specs": {
                     "weightClass": "7-8",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-enforcer-9-10",
+                  "code": "9/10",
+                  "label": "9/10",
+                  "specs": {
+                    "weightClass": "9-10",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-enforcer-11-12",
+                  "code": "11/12",
+                  "label": "11/12",
+                  "specs": {
+                    "weightClass": "11-12",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Trout",
+              "material": "machined aluminium",
+              "series": "premium",
+              "years": "2020–present",
+              "note": "Full-cage trout reel pairing a light classic profile with Sage's One Revolution sealed carbon drag.",
+              "variants": [
+                {
+                  "id": "reel-sage-trout-2-3-4",
+                  "code": "2/3/4",
+                  "label": "2/3/4",
+                  "specs": {
+                    "weightClass": "2-4",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-trout-4-5-6",
+                  "code": "4/5/6",
+                  "label": "4/5/6",
+                  "specs": {
+                    "weightClass": "4-6",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-trout-6-7-8",
+                  "code": "6/7/8",
+                  "label": "6/7/8",
+                  "specs": {
+                    "weightClass": "6-8",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Click",
+              "material": "machined aluminium",
+              "series": "mid",
+              "years": "2016–present",
+              "note": "Classic large-arbor click-and-pawl reel for light-line and small-stream trout fishing.",
+              "variants": [
+                {
+                  "id": "reel-sage-click-0-1-2",
+                  "code": "0/1/2",
+                  "label": "0/1/2",
+                  "specs": {
+                    "weightClass": "0-2",
+                    "arbor": "large",
+                    "dragSystem": "click-pawl"
+                  }
+                },
+                {
+                  "id": "reel-sage-click-3-4-5",
+                  "code": "3/4/5",
+                  "label": "3/4/5",
+                  "specs": {
+                    "weightClass": "3-5",
+                    "arbor": "large",
+                    "dragSystem": "click-pawl"
+                  }
+                },
+                {
+                  "id": "reel-sage-click-4-5-6",
+                  "code": "4/5/6",
+                  "label": "4/5/6",
+                  "specs": {
+                    "weightClass": "4-6",
+                    "arbor": "large",
+                    "dragSystem": "click-pawl"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Arbor XL",
+              "material": "machined aluminium",
+              "series": "mid",
+              "years": "2021–present",
+              "note": "Extra-large-arbor, narrow-spool reel for ultra-fast line pickup, using a sealed carbon drag.",
+              "variants": [
+                {
+                  "id": "reel-sage-arbor-xl-4-5-6",
+                  "code": "4/5/6",
+                  "label": "4/5/6",
+                  "specs": {
+                    "weightClass": "4-6",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-arbor-xl-6-7-8",
+                  "code": "6/7/8",
+                  "label": "6/7/8",
+                  "specs": {
+                    "weightClass": "6-8",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "ESN",
+              "material": "machined aluminium",
+              "series": "premium",
+              "years": "2017–present",
+              "note": "European nymphing reel with an ultra-thin large-diameter arbor and interchangeable balance weights to tune long Euro rods.",
+              "variants": [
+                {
+                  "id": "reel-sage-esn-2-3-4-5",
+                  "code": "2/3/4/5",
+                  "label": "2/3/4/5",
+                  "specs": {
+                    "weightClass": "2-5",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Domain",
+              "material": "fully-machined aluminium",
+              "series": "mid",
+              "years": "2014–2018",
+              "note": "Large-arbor full-cage all-water reel that brought Sage's sealed carbon drag to a more accessible price point.",
+              "variants": [
+                {
+                  "id": "reel-sage-domain-5-6",
+                  "code": "5/6",
+                  "label": "5/6",
+                  "specs": {
+                    "weightClass": "5-6",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-domain-7-8",
+                  "code": "7/8",
+                  "label": "7/8",
+                  "specs": {
+                    "weightClass": "7-8",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon"
+                  }
+                },
+                {
+                  "id": "reel-sage-domain-9-10",
+                  "code": "9/10",
+                  "label": "9/10",
+                  "specs": {
+                    "weightClass": "9-10",
                     "arbor": "large",
                     "dragSystem": "sealed carbon"
                   }
