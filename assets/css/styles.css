@@ -1,10 +1,10 @@
 :root {
-  /* AnglerBook brand palette — deep forest green + cream */
-  --bg: #0e2a20;
-  --bg-soft: #102f24;
-  --panel: #163d2e;
-  --panel-2: #1d4a38;
-  --border: #2c5a45;
+  /* AnglerBook brand palette — forest green + cream (matches the app) */
+  --bg: #123829;
+  --bg-soft: #0e2e21;
+  --panel: #1a4633;
+  --panel-2: #235340;
+  --border: #2f6044;
   --ink: #efe9da;           /* cream */
   --ink-soft: #c3d2c6;      /* soft sage */
   --ink-mute: #8ba596;      /* muted sage */
@@ -45,9 +45,11 @@ h1, h2, h3 { line-height: 1.15; margin: 0 0 .4em; }
 h1, h2 { font-family: var(--font-brand); font-weight: 600; letter-spacing: .2px; }
 
 /* ---------- Shield logo ---------- */
-.shield { display: block; }
-.shield-sm { width: 34px; height: 39px; }
-.shield-lg { width: 96px; height: 111px; filter: drop-shadow(0 6px 14px rgba(0,0,0,.3)); }
+/* Width/height are also set as HTML attributes so the mark is correctly
+   sized even if this stylesheet is delayed or cached. */
+.shield { display: block; width: 34px; height: auto; }
+.shield-sm { width: 32px; height: 37px; }
+.shield-lg { width: 88px; height: 102px; filter: drop-shadow(0 6px 14px rgba(0,0,0,.3)); }
 
 /* ---------- Header ---------- */
 .site-header {
@@ -104,8 +106,8 @@ h1, h2 { font-family: var(--font-brand); font-weight: 600; letter-spacing: .2px;
   padding: 46px 0 34px;
   border-bottom: 1px solid var(--border);
   background:
-    radial-gradient(120% 80% at 50% -10%, rgba(64, 122, 92, 0.45), transparent 60%),
-    linear-gradient(165deg, #205c43 0%, #123829 55%, #0e2a20 100%);
+    radial-gradient(120% 80% at 50% -10%, rgba(72, 134, 101, 0.5), transparent 60%),
+    linear-gradient(165deg, #246b4e 0%, #1a4d38 55%, #123829 100%);
 }
 .hero-inner { display: flex; flex-direction: column; }
 .brand-lockup { text-align: center; margin-bottom: 30px; }
