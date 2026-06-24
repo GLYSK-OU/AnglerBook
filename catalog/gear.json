@@ -6,7 +6,6 @@
   "publisher": "GLYSK OÜ",
   "copyright": "© 2026 GLYSK OÜ. Reference data for the AnglerBook application.",
   "structure": "kind -> brand -> model -> variant(specs)",
-  "disclaimer": "Seed catalog of real products. Rod variants for Sage R8 Core and Orvis Helios are verified against manufacturer/retailer listings; other entries are real models with specs normalized to structured fields. Verify exact SKU codes, current availability, and per-unit measurements against manufacturer sources before production use. Flies are pattern-based: brand denotes the commercial tying house.",
   "counts": {
     "kinds": 14,
     "brands": 42,
