@@ -9,10 +9,10 @@
   "counts": {
     "kinds": 14,
     "brands": 45,
-    "models": 196,
-    "variants": 1030,
+    "models": 201,
+    "variants": 1037,
     "byKind": {
-      "rod": 374,
+      "rod": 381,
       "reel": 77,
       "line": 276,
       "backing": 6,
@@ -4174,6 +4174,131 @@
               ]
             },
             {
+              "model": "Opti Creek",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "premium",
+              "years": "2010–2016",
+              "note": "Short single-hand rod optimised for sensitive fishing on small, skinny streams for trout and grayling (discreet brown finish); distinct from the Opti Creek fly line.",
+              "variants": [
+                {
+                  "id": "rod-loop-opti-creek-388-4",
+                  "code": "388-4",
+                  "label": "388-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "8'8\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Opti Stream",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "premium",
+              "years": "2010–2016",
+              "note": "All-round trout and grayling single-hand rod for delicate close presentation and long controlled casts; placed 2nd in Yellowstone Angler's 2016 5-wt shootout. Distinct from the Opti Stream fly line.",
+              "variants": [
+                {
+                  "id": "rod-loop-opti-stream-590-4",
+                  "code": "590-4",
+                  "label": "590-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-stream-693-4",
+                  "code": "693-4",
+                  "label": "693-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'3\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Opti Nymph",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "premium",
+              "years": "2010–2012",
+              "note": "Short-lived 9' 5-weight river nymphing rod made alongside the Opti Stream and quickly superseded by it.",
+              "variants": [
+                {
+                  "id": "rod-loop-opti-nymph-590-4",
+                  "code": "590-4",
+                  "label": "590-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Opti Coast",
+              "action": "fast",
+              "material": "graphite",
+              "waterType": "saltwater",
+              "series": "premium",
+              "years": "2010–2016",
+              "note": "Fast Cross Weave carbon coastal rod with a hexagonal X-Grip, built to cut through wind and reach distant rips for sea trout.",
+              "variants": [
+                {
+                  "id": "rod-loop-opti-coast-693-4",
+                  "code": "693-4",
+                  "label": "693-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'3\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-coast-796-4",
+                  "code": "796-4",
+                  "label": "796-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'6\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Opti River",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "salmon",
+              "series": "premium",
+              "years": "2010–2016",
+              "note": "Deep-actioned 5-piece #7 single-hander with a hexagonal X-Grip, built for long underhand casts to salmon and sea trout in tight flowing water.",
+              "variants": [
+                {
+                  "id": "rod-loop-opti-river-798-5",
+                  "code": "798-5",
+                  "label": "798-5",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'8\"",
+                    "pieces": 5
+                  }
+                }
+              ]
+            },
+            {
               "model": "Opti Stillwater",
               "action": "medium-fast",
               "material": "graphite",
@@ -4201,16 +4326,16 @@
               "waterType": "salmon",
               "series": "premium",
               "years": "2010–2018",
-              "note": "Cross Weave double-hand salmon/spey rod sold in overlapping 4-piece and 5-piece generations; later succeeded by the Opti NXT.",
+              "note": "Cross Weave 5-piece double-hand salmon/spey rod with Loop's Balanced Reel Seat; later succeeded by the Opti NXT.",
               "variants": [
                 {
-                  "id": "rod-loop-opti-power-spey-9140-4",
-                  "code": "9140-4",
-                  "label": "9140-4",
+                  "id": "rod-loop-opti-power-spey-9130-5",
+                  "code": "9130-5",
+                  "label": "9130-5",
                   "specs": {
                     "lineWeight": 9,
-                    "length": "14'0\"",
-                    "pieces": 4
+                    "length": "13'0\"",
+                    "pieces": 5
                   }
                 },
                 {
