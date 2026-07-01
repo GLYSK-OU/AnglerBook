@@ -9,10 +9,10 @@
   "counts": {
     "kinds": 14,
     "brands": 45,
-    "models": 191,
-    "variants": 1010,
+    "models": 195,
+    "variants": 1029,
     "byKind": {
-      "rod": 354,
+      "rod": 373,
       "reel": 77,
       "line": 276,
       "backing": 6,
@@ -4167,6 +4167,240 @@
                   "label": "4110-4",
                   "specs": {
                     "lineWeight": 4,
+                    "length": "11'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Opti Power Spey",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "salmon",
+              "series": "premium",
+              "years": "2010–2018",
+              "note": "Cross Weave double-hand salmon/spey rod sold in overlapping 4-piece and 5-piece generations; later succeeded by the Opti NXT.",
+              "variants": [
+                {
+                  "id": "rod-loop-opti-power-spey-9140-4",
+                  "code": "9140-4",
+                  "label": "9140-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "14'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-power-spey-9140-5",
+                  "code": "9140-5",
+                  "label": "9140-5",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "14'0\"",
+                    "pieces": 5
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-power-spey-10150-5",
+                  "code": "10150-5",
+                  "label": "10150-5",
+                  "specs": {
+                    "lineWeight": 10,
+                    "length": "15'0\"",
+                    "pieces": 5
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Opti Switch",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "premium",
+              "years": "2010–2018",
+              "note": "Cross Weave switch rod for single- or double-hand casting; codes encode weight and length (8107 = 8wt 10'7\").",
+              "variants": [
+                {
+                  "id": "rod-loop-opti-switch-7107-4",
+                  "code": "7107-4",
+                  "label": "7107-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "10'7\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-switch-8107-4",
+                  "code": "8107-4",
+                  "label": "8107-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "10'7\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Opti NXT",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "salmon",
+              "series": "premium",
+              "years": "2018–present",
+              "note": "Medium-fast 4-piece double-hand successor to the Opti Power Spey; codes encode weight and length (9132-4 = 9wt 13'2\" 4pc).",
+              "variants": [
+                {
+                  "id": "rod-loop-opti-nxt-6120-4",
+                  "code": "6120-4",
+                  "label": "6120-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "12'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-6130-4",
+                  "code": "6130-4",
+                  "label": "6130-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "13'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-7124-4",
+                  "code": "7124-4",
+                  "label": "7124-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "12'4\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-7132-4",
+                  "code": "7132-4",
+                  "label": "7132-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "13'2\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-8130-4",
+                  "code": "8130-4",
+                  "label": "8130-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "13'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-8140-4",
+                  "code": "8140-4",
+                  "label": "8140-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "14'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-8150-4",
+                  "code": "8150-4",
+                  "label": "8150-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "15'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-9126-4",
+                  "code": "9126-4",
+                  "label": "9126-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "12'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-9132-4",
+                  "code": "9132-4",
+                  "label": "9132-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "13'2\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-9140-4",
+                  "code": "9140-4",
+                  "label": "9140-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "14'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-10150-4",
+                  "code": "10150-4",
+                  "label": "10150-4",
+                  "specs": {
+                    "lineWeight": 10,
+                    "length": "15'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Opti NXT Switch",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "premium",
+              "years": "2018–present",
+              "note": "Medium-fast 4-piece switch rod in the Opti NXT family for single- or double-hand casting.",
+              "variants": [
+                {
+                  "id": "rod-loop-opti-nxt-switch-5110-4",
+                  "code": "5110-4",
+                  "label": "5110-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "11'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-switch-5116-4",
+                  "code": "5116-4",
+                  "label": "5116-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "11'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-loop-opti-nxt-switch-7110-4",
+                  "code": "7110-4",
+                  "label": "7110-4",
+                  "specs": {
+                    "lineWeight": 7,
                     "length": "11'0\"",
                     "pieces": 4
                   }
