@@ -1,26 +1,26 @@
 {
   "schemaVersion": "2.0.0",
-  "catalogVersion": "2026.07.01",
-  "generatedAt": "2026-07-01T00:00:00Z",
+  "catalogVersion": "2026.07.02",
+  "generatedAt": "2026-07-02T00:00:00Z",
   "app": "AnglerBook",
   "publisher": "GLYSK OÜ",
   "copyright": "© 2026 GLYSK OÜ. Reference data for the AnglerBook application.",
   "structure": "kind -> brand -> model -> variant(specs)",
   "counts": {
     "kinds": 14,
-    "brands": 45,
-    "models": 215,
-    "variants": 1088,
+    "brands": 48,
+    "models": 245,
+    "variants": 1223,
     "byKind": {
-      "rod": 381,
-      "reel": 128,
+      "rod": 437,
+      "reel": 151,
       "line": 276,
       "backing": 6,
       "leader": 109,
       "tippet": 69,
       "fly": 40,
-      "waders": 22,
-      "boots": 20,
+      "waders": 47,
+      "boots": 51,
       "pack": 7,
       "net": 5,
       "tool": 6,
@@ -3641,7 +3641,9 @@
               "model": "Classic Trout",
               "action": "medium",
               "material": "graphite",
+              "waterType": "freshwater",
               "series": "value",
+              "note": "Also offered in 6-piece backpacking builds.",
               "variants": [
                 {
                   "id": "rod-redington-classic-trout-376-4",
@@ -3664,11 +3666,180 @@
                   }
                 },
                 {
+                  "id": "rod-redington-classic-trout-490-4",
+                  "code": "490-4",
+                  "label": "490-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
                   "id": "rod-redington-classic-trout-590-4",
                   "code": "590-4",
                   "label": "590-4",
                   "specs": {
                     "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-classic-trout-590-6",
+                  "code": "590-6",
+                  "label": "590-6",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 6
+                  }
+                },
+                {
+                  "id": "rod-redington-classic-trout-690-4",
+                  "code": "690-4",
+                  "label": "690-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Path II",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "entry",
+              "variants": [
+                {
+                  "id": "rod-redington-path-ii-390-4",
+                  "code": "390-4",
+                  "label": "390-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-path-ii-490-4",
+                  "code": "490-4",
+                  "label": "490-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-path-ii-590-4",
+                  "code": "590-4",
+                  "label": "590-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-path-ii-690-4",
+                  "code": "690-4",
+                  "label": "690-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-path-ii-790-4",
+                  "code": "790-4",
+                  "label": "790-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-path-ii-890-4",
+                  "code": "890-4",
+                  "label": "890-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-path-ii-990-4",
+                  "code": "990-4",
+                  "label": "990-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Crux",
+              "action": "fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "flagship",
+              "note": "Line Speed Taper; premium single-hand rod.",
+              "variants": [
+                {
+                  "id": "rod-redington-crux-490-4",
+                  "code": "490-4",
+                  "label": "490-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-crux-590-4",
+                  "code": "590-4",
+                  "label": "590-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-crux-690-4",
+                  "code": "690-4",
+                  "label": "690-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-crux-790-4",
+                  "code": "790-4",
+                  "label": "790-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-crux-890-4",
+                  "code": "890-4",
+                  "label": "890-4",
+                  "specs": {
+                    "lineWeight": 8,
                     "length": "9'0\"",
                     "pieces": 4
                   }
@@ -3679,8 +3850,20 @@
               "model": "Vice",
               "action": "fast",
               "material": "graphite",
-              "series": "entry",
+              "waterType": "all-water",
+              "series": "mid",
+              "note": "Fighting-butt option on heavier weights.",
               "variants": [
+                {
+                  "id": "rod-redington-vice-490-4",
+                  "code": "490-4",
+                  "label": "490-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
                 {
                   "id": "rod-redington-vice-590-4",
                   "code": "590-4",
@@ -3697,6 +3880,16 @@
                   "label": "690-4",
                   "specs": {
                     "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-vice-790-4",
+                  "code": "790-4",
+                  "label": "790-4",
+                  "specs": {
+                    "lineWeight": 7,
                     "length": "9'0\"",
                     "pieces": 4
                   }
@@ -3719,6 +3912,511 @@
                     "lineWeight": 9,
                     "length": "9'0\"",
                     "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Predator",
+              "action": "fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "big-fish",
+              "note": "Bass, pike, musky; salt-ready hardware.",
+              "variants": [
+                {
+                  "id": "rod-redington-predator-690-4",
+                  "code": "690-4",
+                  "label": "690-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-predator-790-4",
+                  "code": "790-4",
+                  "label": "790-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-predator-7100-4",
+                  "code": "7100-4",
+                  "label": "7100-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "10'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-predator-890-4",
+                  "code": "890-4",
+                  "label": "890-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-predator-990-4",
+                  "code": "990-4",
+                  "label": "990-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-predator-1090-4",
+                  "code": "1090-4",
+                  "label": "1090-4",
+                  "specs": {
+                    "lineWeight": 10,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Predator SALT",
+              "action": "fast",
+              "material": "graphite (nano resin)",
+              "waterType": "saltwater",
+              "series": "saltwater",
+              "note": "Salt-resistant hardware; offered 6-14wt.",
+              "variants": [
+                {
+                  "id": "rod-redington-predator-salt-790-4",
+                  "code": "790-4",
+                  "label": "790-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-predator-salt-890-4",
+                  "code": "890-4",
+                  "label": "890-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-predator-salt-990-4",
+                  "code": "990-4",
+                  "label": "990-4",
+                  "specs": {
+                    "lineWeight": 9,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-predator-salt-1090-4",
+                  "code": "1090-4",
+                  "label": "1090-4",
+                  "specs": {
+                    "lineWeight": 10,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-predator-salt-1290-4",
+                  "code": "1290-4",
+                  "label": "1290-4",
+                  "specs": {
+                    "lineWeight": 12,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Butter Stick",
+              "action": "slow",
+              "material": "fiberglass (T-glass)",
+              "waterType": "freshwater",
+              "series": "specialty",
+              "note": "Glass creek rod; lengths/codes representative - verify per model.",
+              "variants": [
+                {
+                  "id": "rod-redington-butter-stick-366-3",
+                  "code": "366-3",
+                  "label": "366-3",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "6'6\"",
+                    "pieces": 3
+                  }
+                },
+                {
+                  "id": "rod-redington-butter-stick-476-3",
+                  "code": "476-3",
+                  "label": "476-3",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "7'6\"",
+                    "pieces": 3
+                  }
+                },
+                {
+                  "id": "rod-redington-butter-stick-580-3",
+                  "code": "580-3",
+                  "label": "580-3",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "8'0\"",
+                    "pieces": 3
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Strike II",
+              "action": "medium",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "specialty",
+              "note": "Euro nymphing. Configs representative - verify SKUs.",
+              "variants": [
+                {
+                  "id": "rod-redington-strike-ii-2100-4",
+                  "code": "2100-4",
+                  "label": "2100-4",
+                  "specs": {
+                    "lineWeight": 2,
+                    "length": "10'0\"",
+                    "pieces": 4,
+                    "technique": "euro nymph"
+                  }
+                },
+                {
+                  "id": "rod-redington-strike-ii-3100-4",
+                  "code": "3100-4",
+                  "label": "3100-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "10'0\"",
+                    "pieces": 4,
+                    "technique": "euro nymph"
+                  }
+                },
+                {
+                  "id": "rod-redington-strike-ii-3106-4",
+                  "code": "3106-4",
+                  "label": "3106-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "10'6\"",
+                    "pieces": 4,
+                    "technique": "euro nymph"
+                  }
+                },
+                {
+                  "id": "rod-redington-strike-ii-4100-4",
+                  "code": "4100-4",
+                  "label": "4100-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "10'0\"",
+                    "pieces": 4,
+                    "technique": "euro nymph"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Hydrogen",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "freshwater",
+              "series": "specialty",
+              "note": "Light trout/small-water; series also includes Euro Nymph and Trout Spey.",
+              "variants": [
+                {
+                  "id": "rod-redington-hydrogen-376-4",
+                  "code": "376-4",
+                  "label": "376-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "7'6\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-hydrogen-490-4",
+                  "code": "490-4",
+                  "label": "490-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-hydrogen-590-4",
+                  "code": "590-4",
+                  "label": "590-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Crosswater",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "entry",
+              "note": "Usually sold as a pre-spooled outfit.",
+              "variants": [
+                {
+                  "id": "rod-redington-crosswater-490-4",
+                  "code": "490-4",
+                  "label": "490-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-crosswater-590-4",
+                  "code": "590-4",
+                  "label": "590-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-crosswater-690-4",
+                  "code": "690-4",
+                  "label": "690-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                },
+                {
+                  "id": "rod-redington-crosswater-890-4",
+                  "code": "890-4",
+                  "label": "890-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Wrangler",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "outfit",
+              "note": "Sold as complete kits.",
+              "variants": [
+                {
+                  "id": "rod-redington-wrangler-490-4",
+                  "code": "490-4",
+                  "label": "490-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "9'0\"",
+                    "pieces": 4,
+                    "kit": "Pond"
+                  }
+                },
+                {
+                  "id": "rod-redington-wrangler-590-4",
+                  "code": "590-4",
+                  "label": "590-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 4,
+                    "kit": "Trout"
+                  }
+                },
+                {
+                  "id": "rod-redington-wrangler-690-4",
+                  "code": "690-4",
+                  "label": "690-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 4,
+                    "kit": "Trout XL"
+                  }
+                },
+                {
+                  "id": "rod-redington-wrangler-890-4",
+                  "code": "890-4",
+                  "label": "890-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4,
+                    "kit": "Salmon"
+                  }
+                },
+                {
+                  "id": "rod-redington-wrangler-890-4s",
+                  "code": "890-4S",
+                  "label": "890-4S",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 4,
+                    "kit": "Salt"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Trailblazer",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "travel",
+              "note": "6-piece packable travel rod.",
+              "variants": [
+                {
+                  "id": "rod-redington-trailblazer-590-6",
+                  "code": "590-6",
+                  "label": "590-6",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "9'0\"",
+                    "pieces": 6
+                  }
+                },
+                {
+                  "id": "rod-redington-trailblazer-690-6",
+                  "code": "690-6",
+                  "label": "690-6",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "9'0\"",
+                    "pieces": 6
+                  }
+                },
+                {
+                  "id": "rod-redington-trailblazer-890-6",
+                  "code": "890-6",
+                  "label": "890-6",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "9'0\"",
+                    "pieces": 6
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Dually",
+              "action": "medium",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "two-hand",
+              "note": "Value spey/switch. Configs representative - verify SKUs.",
+              "variants": [
+                {
+                  "id": "rod-redington-dually-3113-4",
+                  "code": "3113-4",
+                  "label": "3113-4",
+                  "specs": {
+                    "lineWeight": 3,
+                    "length": "11'3\"",
+                    "pieces": 4,
+                    "handType": "trout spey/switch"
+                  }
+                },
+                {
+                  "id": "rod-redington-dually-4116-4",
+                  "code": "4116-4",
+                  "label": "4116-4",
+                  "specs": {
+                    "lineWeight": 4,
+                    "length": "11'6\"",
+                    "pieces": 4,
+                    "handType": "switch"
+                  }
+                },
+                {
+                  "id": "rod-redington-dually-5130-4",
+                  "code": "5130-4",
+                  "label": "5130-4",
+                  "specs": {
+                    "lineWeight": 5,
+                    "length": "13'0\"",
+                    "pieces": 4,
+                    "handType": "spey"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Chromer",
+              "action": "medium-fast",
+              "material": "graphite",
+              "waterType": "all-water",
+              "series": "two-hand",
+              "note": "Premium spey/switch. Configs representative - verify SKUs.",
+              "variants": [
+                {
+                  "id": "rod-redington-chromer-6130-4",
+                  "code": "6130-4",
+                  "label": "6130-4",
+                  "specs": {
+                    "lineWeight": 6,
+                    "length": "13'0\"",
+                    "pieces": 4,
+                    "handType": "spey/switch"
+                  }
+                },
+                {
+                  "id": "rod-redington-chromer-7136-4",
+                  "code": "7136-4",
+                  "label": "7136-4",
+                  "specs": {
+                    "lineWeight": 7,
+                    "length": "13'6\"",
+                    "pieces": 4,
+                    "handType": "spey"
+                  }
+                },
+                {
+                  "id": "rod-redington-chromer-8140-4",
+                  "code": "8140-4",
+                  "label": "8140-4",
+                  "specs": {
+                    "lineWeight": 8,
+                    "length": "14'0\"",
+                    "pieces": 4,
+                    "handType": "spey"
                   }
                 }
               ]
@@ -6161,6 +6859,296 @@
                     "weightClass": "9-12",
                     "arbor": "large",
                     "dragSystem": "sealed"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "brand": "Redington",
+          "models": [
+            {
+              "model": "Behemoth",
+              "material": "die-cast aluminium",
+              "series": "value",
+              "note": "V-cut spool, high backing capacity.",
+              "variants": [
+                {
+                  "id": "reel-redington-behemoth-4-5",
+                  "code": "4/5",
+                  "label": "4/5",
+                  "specs": {
+                    "weightClass": "4-5",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                },
+                {
+                  "id": "reel-redington-behemoth-5-6",
+                  "code": "5/6",
+                  "label": "5/6",
+                  "specs": {
+                    "weightClass": "5-6",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                },
+                {
+                  "id": "reel-redington-behemoth-7-8",
+                  "code": "7/8",
+                  "label": "7/8",
+                  "specs": {
+                    "weightClass": "7-8",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                },
+                {
+                  "id": "reel-redington-behemoth-9-10",
+                  "code": "9/10",
+                  "label": "9/10",
+                  "specs": {
+                    "weightClass": "9-10",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                },
+                {
+                  "id": "reel-redington-behemoth-11-12",
+                  "code": "11/12",
+                  "label": "11/12",
+                  "specs": {
+                    "weightClass": "11-12",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Grande",
+              "material": "machined aluminium",
+              "series": "flagship",
+              "note": "Big-game / saltwater.",
+              "variants": [
+                {
+                  "id": "reel-redington-grande-5-6",
+                  "code": "5/6",
+                  "label": "5/6",
+                  "specs": {
+                    "weightClass": "5-6",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon (Super-Torque)"
+                  }
+                },
+                {
+                  "id": "reel-redington-grande-7-8",
+                  "code": "7/8",
+                  "label": "7/8",
+                  "specs": {
+                    "weightClass": "7-8",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon (Super-Torque)"
+                  }
+                },
+                {
+                  "id": "reel-redington-grande-9-10",
+                  "code": "9/10",
+                  "label": "9/10",
+                  "specs": {
+                    "weightClass": "9-10",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon (Super-Torque)"
+                  }
+                },
+                {
+                  "id": "reel-redington-grande-11-12",
+                  "code": "11/12",
+                  "label": "11/12",
+                  "specs": {
+                    "weightClass": "11-12",
+                    "arbor": "large",
+                    "dragSystem": "sealed carbon (Super-Torque)"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Ace",
+              "material": "machined aluminium",
+              "series": "mid",
+              "note": "CNC-machined; replaced the Rise.",
+              "variants": [
+                {
+                  "id": "reel-redington-ace-3-4",
+                  "code": "3/4",
+                  "label": "3/4",
+                  "specs": {
+                    "weightClass": "3-4",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                },
+                {
+                  "id": "reel-redington-ace-5-6",
+                  "code": "5/6",
+                  "label": "5/6",
+                  "specs": {
+                    "weightClass": "5-6",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                },
+                {
+                  "id": "reel-redington-ace-7-8",
+                  "code": "7/8",
+                  "label": "7/8",
+                  "specs": {
+                    "weightClass": "7-8",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Run",
+              "material": "die-cast aluminium",
+              "series": "mid",
+              "variants": [
+                {
+                  "id": "reel-redington-run-3-4",
+                  "code": "3/4",
+                  "label": "3/4",
+                  "specs": {
+                    "weightClass": "3-4",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                },
+                {
+                  "id": "reel-redington-run-5-6",
+                  "code": "5/6",
+                  "label": "5/6",
+                  "specs": {
+                    "weightClass": "5-6",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                },
+                {
+                  "id": "reel-redington-run-7-8",
+                  "code": "7/8",
+                  "label": "7/8",
+                  "specs": {
+                    "weightClass": "7-8",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                },
+                {
+                  "id": "reel-redington-run-9-10",
+                  "code": "9/10",
+                  "label": "9/10",
+                  "specs": {
+                    "weightClass": "9-10",
+                    "arbor": "large",
+                    "dragSystem": "carbon fiber disc"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Zero",
+              "material": "die-cast aluminium",
+              "series": "value",
+              "note": "Lightweight small-stream reel.",
+              "variants": [
+                {
+                  "id": "reel-redington-zero-2-3",
+                  "code": "2/3",
+                  "label": "2/3",
+                  "specs": {
+                    "weightClass": "2-3",
+                    "arbor": "large",
+                    "dragSystem": "click-pawl"
+                  }
+                },
+                {
+                  "id": "reel-redington-zero-3-4",
+                  "code": "3/4",
+                  "label": "3/4",
+                  "specs": {
+                    "weightClass": "3-4",
+                    "arbor": "large",
+                    "dragSystem": "click-pawl"
+                  }
+                },
+                {
+                  "id": "reel-redington-zero-4-5",
+                  "code": "4/5",
+                  "label": "4/5",
+                  "specs": {
+                    "weightClass": "4-5",
+                    "arbor": "large",
+                    "dragSystem": "click-pawl"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Crosswater",
+              "material": "composite polymer",
+              "series": "entry",
+              "note": "Often pre-spooled with Rio Mainstream.",
+              "variants": [
+                {
+                  "id": "reel-redington-crosswater-4-5-6",
+                  "code": "4/5/6",
+                  "label": "4/5/6",
+                  "specs": {
+                    "weightClass": "4-6",
+                    "arbor": "large",
+                    "dragSystem": "composite disc"
+                  }
+                },
+                {
+                  "id": "reel-redington-crosswater-7-8-9",
+                  "code": "7/8/9",
+                  "label": "7/8/9",
+                  "specs": {
+                    "weightClass": "7-9",
+                    "arbor": "large",
+                    "dragSystem": "composite disc"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Tilt",
+              "material": "machined aluminium",
+              "series": "specialty",
+              "note": "Euro-nymph reel with adjustable balance weight.",
+              "variants": [
+                {
+                  "id": "reel-redington-tilt-2-3",
+                  "code": "2/3",
+                  "label": "2/3",
+                  "specs": {
+                    "weightClass": "2-3",
+                    "arbor": "full-frame",
+                    "dragSystem": "disc"
+                  }
+                },
+                {
+                  "id": "reel-redington-tilt-4-5",
+                  "code": "4/5",
+                  "label": "4/5",
+                  "specs": {
+                    "weightClass": "4-5",
+                    "arbor": "full-frame",
+                    "dragSystem": "disc"
                   }
                 }
               ]
@@ -12453,6 +13441,337 @@
               ]
             }
           ]
+        },
+        {
+          "brand": "Redington",
+          "models": [
+            {
+              "model": "Sonic-Pro",
+              "series": "flagship",
+              "footType": "stockingfoot",
+              "note": "Sonic-welded seams.",
+              "variants": [
+                {
+                  "id": "waders-redington-sonic-pro-s",
+                  "code": "S",
+                  "label": "S",
+                  "specs": {
+                    "size": "S",
+                    "type": "chest",
+                    "material": "4-layer breathable",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-sonic-pro-m",
+                  "code": "M",
+                  "label": "M",
+                  "specs": {
+                    "size": "M",
+                    "type": "chest",
+                    "material": "4-layer breathable",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-sonic-pro-l",
+                  "code": "L",
+                  "label": "L",
+                  "specs": {
+                    "size": "L",
+                    "type": "chest",
+                    "material": "4-layer breathable",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-sonic-pro-xl",
+                  "code": "XL",
+                  "label": "XL",
+                  "specs": {
+                    "size": "XL",
+                    "type": "chest",
+                    "material": "4-layer breathable",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-sonic-pro-xxl",
+                  "code": "XXL",
+                  "label": "XXL",
+                  "specs": {
+                    "size": "XXL",
+                    "type": "chest",
+                    "material": "4-layer breathable",
+                    "breathable": true
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Sonic-Pro HDZ",
+              "series": "flagship",
+              "footType": "stockingfoot",
+              "variants": [
+                {
+                  "id": "waders-redington-sonic-pro-hdz-m",
+                  "code": "M",
+                  "label": "M",
+                  "specs": {
+                    "size": "M",
+                    "type": "chest",
+                    "material": "4-layer breathable",
+                    "breathable": true,
+                    "frontZip": true
+                  }
+                },
+                {
+                  "id": "waders-redington-sonic-pro-hdz-l",
+                  "code": "L",
+                  "label": "L",
+                  "specs": {
+                    "size": "L",
+                    "type": "chest",
+                    "material": "4-layer breathable",
+                    "breathable": true,
+                    "frontZip": true
+                  }
+                },
+                {
+                  "id": "waders-redington-sonic-pro-hdz-xl",
+                  "code": "XL",
+                  "label": "XL",
+                  "specs": {
+                    "size": "XL",
+                    "type": "chest",
+                    "material": "4-layer breathable",
+                    "breathable": true,
+                    "frontZip": true
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Escape",
+              "series": "mid",
+              "footType": "stockingfoot",
+              "variants": [
+                {
+                  "id": "waders-redington-escape-s",
+                  "code": "S",
+                  "label": "S",
+                  "specs": {
+                    "size": "S",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-escape-m",
+                  "code": "M",
+                  "label": "M",
+                  "specs": {
+                    "size": "M",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-escape-l",
+                  "code": "L",
+                  "label": "L",
+                  "specs": {
+                    "size": "L",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-escape-xl",
+                  "code": "XL",
+                  "label": "XL",
+                  "specs": {
+                    "size": "XL",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-escape-xxl",
+                  "code": "XXL",
+                  "label": "XXL",
+                  "specs": {
+                    "size": "XXL",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Crosswater",
+              "series": "entry",
+              "footType": "stockingfoot",
+              "variants": [
+                {
+                  "id": "waders-redington-crosswater-s",
+                  "code": "S",
+                  "label": "S",
+                  "specs": {
+                    "size": "S",
+                    "type": "chest",
+                    "material": "3-layer breathable",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-crosswater-m",
+                  "code": "M",
+                  "label": "M",
+                  "specs": {
+                    "size": "M",
+                    "type": "chest",
+                    "material": "3-layer breathable",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-crosswater-l",
+                  "code": "L",
+                  "label": "L",
+                  "specs": {
+                    "size": "L",
+                    "type": "chest",
+                    "material": "3-layer breathable",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-crosswater-xl",
+                  "code": "XL",
+                  "label": "XL",
+                  "specs": {
+                    "size": "XL",
+                    "type": "chest",
+                    "material": "3-layer breathable",
+                    "breathable": true
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Palix River",
+              "series": "entry",
+              "footType": "stockingfoot",
+              "note": "Also offered as a waist-high pant.",
+              "variants": [
+                {
+                  "id": "waders-redington-palix-river-s",
+                  "code": "S",
+                  "label": "S",
+                  "specs": {
+                    "size": "S",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-palix-river-m",
+                  "code": "M",
+                  "label": "M",
+                  "specs": {
+                    "size": "M",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-palix-river-l",
+                  "code": "L",
+                  "label": "L",
+                  "specs": {
+                    "size": "L",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true
+                  }
+                },
+                {
+                  "id": "waders-redington-palix-river-xl",
+                  "code": "XL",
+                  "label": "XL",
+                  "specs": {
+                    "size": "XL",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Willow River",
+              "series": "women's",
+              "footType": "stockingfoot",
+              "variants": [
+                {
+                  "id": "waders-redington-willow-river-xs",
+                  "code": "XS",
+                  "label": "XS",
+                  "specs": {
+                    "size": "XS",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true,
+                    "fit": "women's"
+                  }
+                },
+                {
+                  "id": "waders-redington-willow-river-s",
+                  "code": "S",
+                  "label": "S",
+                  "specs": {
+                    "size": "S",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true,
+                    "fit": "women's"
+                  }
+                },
+                {
+                  "id": "waders-redington-willow-river-m",
+                  "code": "M",
+                  "label": "M",
+                  "specs": {
+                    "size": "M",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true,
+                    "fit": "women's"
+                  }
+                },
+                {
+                  "id": "waders-redington-willow-river-l",
+                  "code": "L",
+                  "label": "L",
+                  "specs": {
+                    "size": "L",
+                    "type": "chest",
+                    "material": "breathable nylon",
+                    "breathable": true,
+                    "fit": "women's"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -12683,6 +14002,327 @@
                   "label": "US 12 (rubber)",
                   "specs": {
                     "size": 12,
+                    "soleType": "rubber"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "brand": "Redington",
+          "models": [
+            {
+              "model": "Prowler-Pro (Rubber)",
+              "soleType": "rubber",
+              "series": "flagship",
+              "variants": [
+                {
+                  "id": "boots-redington-prowler-pro-rubber-us-8-rubber",
+                  "code": "US 8 (rubber)",
+                  "label": "US 8 (rubber)",
+                  "specs": {
+                    "size": 8,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-rubber-us-9-rubber",
+                  "code": "US 9 (rubber)",
+                  "label": "US 9 (rubber)",
+                  "specs": {
+                    "size": 9,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-rubber-us-10-rubber",
+                  "code": "US 10 (rubber)",
+                  "label": "US 10 (rubber)",
+                  "specs": {
+                    "size": 10,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-rubber-us-11-rubber",
+                  "code": "US 11 (rubber)",
+                  "label": "US 11 (rubber)",
+                  "specs": {
+                    "size": 11,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-rubber-us-12-rubber",
+                  "code": "US 12 (rubber)",
+                  "label": "US 12 (rubber)",
+                  "specs": {
+                    "size": 12,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-rubber-us-13-rubber",
+                  "code": "US 13 (rubber)",
+                  "label": "US 13 (rubber)",
+                  "specs": {
+                    "size": 13,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-rubber-us-14-rubber",
+                  "code": "US 14 (rubber)",
+                  "label": "US 14 (rubber)",
+                  "specs": {
+                    "size": 14,
+                    "soleType": "rubber"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Prowler-Pro (Felt)",
+              "soleType": "felt",
+              "series": "flagship",
+              "note": "Felt restricted in some regions.",
+              "variants": [
+                {
+                  "id": "boots-redington-prowler-pro-felt-us-8-felt",
+                  "code": "US 8 (felt)",
+                  "label": "US 8 (felt)",
+                  "specs": {
+                    "size": 8,
+                    "soleType": "felt"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-felt-us-9-felt",
+                  "code": "US 9 (felt)",
+                  "label": "US 9 (felt)",
+                  "specs": {
+                    "size": 9,
+                    "soleType": "felt"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-felt-us-10-felt",
+                  "code": "US 10 (felt)",
+                  "label": "US 10 (felt)",
+                  "specs": {
+                    "size": 10,
+                    "soleType": "felt"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-felt-us-11-felt",
+                  "code": "US 11 (felt)",
+                  "label": "US 11 (felt)",
+                  "specs": {
+                    "size": 11,
+                    "soleType": "felt"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-felt-us-12-felt",
+                  "code": "US 12 (felt)",
+                  "label": "US 12 (felt)",
+                  "specs": {
+                    "size": 12,
+                    "soleType": "felt"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-felt-us-13-felt",
+                  "code": "US 13 (felt)",
+                  "label": "US 13 (felt)",
+                  "specs": {
+                    "size": 13,
+                    "soleType": "felt"
+                  }
+                },
+                {
+                  "id": "boots-redington-prowler-pro-felt-us-14-felt",
+                  "code": "US 14 (felt)",
+                  "label": "US 14 (felt)",
+                  "specs": {
+                    "size": 14,
+                    "soleType": "felt"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Palix River",
+              "soleType": "rubber",
+              "series": "mid",
+              "variants": [
+                {
+                  "id": "boots-redington-palix-river-us-8-rubber",
+                  "code": "US 8 (rubber)",
+                  "label": "US 8 (rubber)",
+                  "specs": {
+                    "size": 8,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-palix-river-us-9-rubber",
+                  "code": "US 9 (rubber)",
+                  "label": "US 9 (rubber)",
+                  "specs": {
+                    "size": 9,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-palix-river-us-10-rubber",
+                  "code": "US 10 (rubber)",
+                  "label": "US 10 (rubber)",
+                  "specs": {
+                    "size": 10,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-palix-river-us-11-rubber",
+                  "code": "US 11 (rubber)",
+                  "label": "US 11 (rubber)",
+                  "specs": {
+                    "size": 11,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-palix-river-us-12-rubber",
+                  "code": "US 12 (rubber)",
+                  "label": "US 12 (rubber)",
+                  "specs": {
+                    "size": 12,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-palix-river-us-13-rubber",
+                  "code": "US 13 (rubber)",
+                  "label": "US 13 (rubber)",
+                  "specs": {
+                    "size": 13,
+                    "soleType": "rubber"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Benchmark",
+              "soleType": "rubber",
+              "series": "entry",
+              "variants": [
+                {
+                  "id": "boots-redington-benchmark-us-8-rubber",
+                  "code": "US 8 (rubber)",
+                  "label": "US 8 (rubber)",
+                  "specs": {
+                    "size": 8,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-benchmark-us-9-rubber",
+                  "code": "US 9 (rubber)",
+                  "label": "US 9 (rubber)",
+                  "specs": {
+                    "size": 9,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-benchmark-us-10-rubber",
+                  "code": "US 10 (rubber)",
+                  "label": "US 10 (rubber)",
+                  "specs": {
+                    "size": 10,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-benchmark-us-11-rubber",
+                  "code": "US 11 (rubber)",
+                  "label": "US 11 (rubber)",
+                  "specs": {
+                    "size": 11,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-benchmark-us-12-rubber",
+                  "code": "US 12 (rubber)",
+                  "label": "US 12 (rubber)",
+                  "specs": {
+                    "size": 12,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-benchmark-us-13-rubber",
+                  "code": "US 13 (rubber)",
+                  "label": "US 13 (rubber)",
+                  "specs": {
+                    "size": 13,
+                    "soleType": "rubber"
+                  }
+                }
+              ]
+            },
+            {
+              "model": "Willow River",
+              "soleType": "rubber",
+              "series": "women's",
+              "fit": "women's",
+              "variants": [
+                {
+                  "id": "boots-redington-willow-river-us-6-rubber",
+                  "code": "US 6 (rubber)",
+                  "label": "US 6 (rubber)",
+                  "specs": {
+                    "size": 6,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-willow-river-us-7-rubber",
+                  "code": "US 7 (rubber)",
+                  "label": "US 7 (rubber)",
+                  "specs": {
+                    "size": 7,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-willow-river-us-8-rubber",
+                  "code": "US 8 (rubber)",
+                  "label": "US 8 (rubber)",
+                  "specs": {
+                    "size": 8,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-willow-river-us-9-rubber",
+                  "code": "US 9 (rubber)",
+                  "label": "US 9 (rubber)",
+                  "specs": {
+                    "size": 9,
+                    "soleType": "rubber"
+                  }
+                },
+                {
+                  "id": "boots-redington-willow-river-us-10-rubber",
+                  "code": "US 10 (rubber)",
+                  "label": "US 10 (rubber)",
+                  "specs": {
+                    "size": 10,
                     "soleType": "rubber"
                   }
                 }
