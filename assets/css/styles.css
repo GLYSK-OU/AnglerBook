@@ -346,3 +346,64 @@ legend { font-size: 13px; font-weight: 700; color: var(--accent); padding: 0 8px
   .variant-row { align-items: stretch; }
   .variant-remove { width: 100%; }
 }
+
+/* ==================== Theme: light / dark / auto (matches anglerbook.fun) ==================== */
+/* The palette at the top of this file is the DARK theme. theme.js sets
+   data-theme="light|dark" on <html>; dark needs no selector (it's the base). */
+:root { color-scheme: dark; }
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #EFE9DB;          /* sand — page background */
+  --bg-soft: #E5DCC8;     /* sand-deep — inputs, chips, insets */
+  --panel: #F7F2E6;       /* cream — cards & panels */
+  --panel-2: #FBF8EF;     /* lighter cream — hover rows */
+  --border: rgba(22, 32, 27, 0.14);
+  --ink: #16201B;         /* forest ink — primary text */
+  --ink-soft: rgba(22, 32, 27, 0.64);
+  --ink-mute: rgba(22, 32, 27, 0.45);
+  --accent: #16543C;      /* brand green — links, focus */
+  --accent-deep: #0A2C20; /* deep green — selected states */
+  --brass: #937027;       /* darkened brass for contrast on cream */
+  --good: #2E7D53;
+  --danger: #B23B3B;
+  --shadow: 0 14px 36px rgba(22, 32, 27, 0.12);
+}
+
+/* Elements with hardcoded (dark-tuned) colours get a light-mode pass */
+:root[data-theme="light"] .site-header { background: rgba(247, 242, 230, 0.85); }
+:root[data-theme="light"] .hero {
+  background:
+    radial-gradient(120% 80% at 50% -10%, rgba(22, 84, 60, 0.10), transparent 60%),
+    linear-gradient(165deg, #F7F2E6 0%, #EFE9DB 55%, #E5DCC8 100%);
+}
+:root[data-theme="light"] .hero-stats > div { background: rgba(255, 255, 255, 0.55); }
+:root[data-theme="light"] .btn:hover { background: #E5DCC8; border-color: var(--accent); }
+:root[data-theme="light"] .btn-primary { background: var(--accent); border-color: var(--accent); color: #F7F2E6; }
+:root[data-theme="light"] .btn-primary:hover { background: var(--accent-deep); border-color: var(--accent-deep); color: #F7F2E6; }
+:root[data-theme="light"] .form-error { color: #9B2C2C; }
+:root[data-theme="light"] .form-success { color: #1E6B45; }
+
+/* Floating theme toggle (button injected by theme.js) */
+.theme-toggle {
+  position: fixed; top: 16px; right: 16px; z-index: 60;
+  display: inline-flex; align-items: center; gap: 8px;
+  margin: 0; padding: 8px 13px; border-radius: 999px;
+  background: var(--panel); color: var(--ink);
+  border: 1px solid var(--border);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 0.72rem; font-weight: 600;
+  letter-spacing: 0.14em; text-transform: uppercase; cursor: pointer;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.18);
+  -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+  transition: border-color .2s ease, color .2s ease, background .2s ease;
+}
+.theme-toggle:hover { border-color: var(--accent); }
+.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.theme-toggle svg { width: 15px; height: 15px; flex: none; }
+.theme-toggle span { line-height: 1; }
+@media (max-width: 560px) {
+  .theme-toggle { top: 12px; right: 12px; padding: 8px; }
+  .theme-toggle span { display: none; }
+}
+@media (prefers-reduced-motion: reduce) { .theme-toggle { transition: none; } }
